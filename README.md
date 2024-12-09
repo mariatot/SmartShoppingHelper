@@ -1,6 +1,8 @@
 # SmartShoppingHelper
 Application d’aide aux courses utilisant l’intelligence artificielle pour afficher le Nutri-Score des produits, évaluer l’équilibre nutritionnel d’un panier, et proposer des recommandations pour des choix alimentaires plus sains et responsables.
 
+![Aperçu](Smart_shopping_helper_img.jpg)
+
 # **Aide aux courses intelligente**  
 Une application innovante pour améliorer les choix alimentaires grâce au Nutri-Score et à des recommandations personnalisées.  
 
